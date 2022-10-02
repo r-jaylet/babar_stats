@@ -1,0 +1,333 @@
+,id,name,price
+0,1,Leffe,1.8
+1,2,Hoegaaden blanche,1.8
+2,3,Desperados,2.1
+3,4,Soft,1.0
+4,5,Clope,0.5
+5,6,Smirnoff,2.4
+6,7,Pastis,1.5
+7,8,Hard,1.5
+8,9,Grimbergen,2.0
+9,10,Mauvais redbull,1.5
+10,11,Chimay Rouge,1.3
+11,12,Chimay Bleue,2.5
+12,13,Sucette,0.2
+13,14,Kro Demi,1.2
+14,15,Cidre Demi,1.5
+15,16,Pelforth,1.5
+16,17,Paquet Clopes,10.0
+17,18,Hard Red Bull,2.0
+18,19,Polo,15.0
+19,20,Milk Shake,1.0
+20,21,Kwak,2.0
+21,22,BiÃ¨re pour les vie,0.0
+22,23,Cloture Compte,0.0
+23,24,Kir,1.0
+24,25,Vin,1.0
+25,26,BiÃ¨re 1A,0.0
+26,27,Kro Pinte,2.0
+27,28,Cidre Pinte,2.5
+28,29,Cocktail Hard,2.0
+29,30,Soft,1.0
+30,31,Carte Murge,0.0
+31,32,Demi Picon,0.9
+32,33,Chimay Blanche,1.5
+33,34,Rhum ArrangÃ©,1.0
+34,35,Red Bull (Old),1.9
+35,36,Mango Mojito,2.0
+36,37,Shot,1.0
+37,38,SpÃ©ciale Charlix,0.5
+38,39,Mojito,1.0
+39,40,Blanche Demi,2.0
+40,41,Blanche Pinte,3.0
+41,42,Cidre Doux/Brut,1.5
+42,43,BiÃ¨re,0.5
+43,44,Cocktail vieux con,0.5
+44,45,White Russian,1.5
+45,46,Cocktail Paris IV,1.0
+46,47,BiÃ¨re du moment,1.2
+47,48,Snack,0.6
+48,49,Muscat,1.0
+49,50,Bud,1.2
+50,51,Martini,1.5
+51,52,4UM,0.7
+52,53,AmbrÃ©e demi,1.5
+53,54,AmbrÃ©e pinte,3.0
+54,55,Pinte,1.5
+55,56,Demi,0.8
+56,57,Delirium,2.5
+57,58,La Scene Autres,1.5
+58,59,LaScene Kro/Cidre,1.0
+59,60,Flo il est gentil :),0.0
+60,61,PinteLH,0.0
+61,62,LaScene Despe/Smir,2.0
+62,63,Pinte Picon,1.6
+63,64,Printemps demi,1.5
+64,65,Rouge pinte,3.0
+65,66,Guinness,2.6
+66,67,SoirÃ©e 3A ,10.0
+67,68,Passeport,7.0
+68,69,erdinger,1.8
+69,70,Sangria,1.0
+70,71,Champagne coupe,3.0
+71,72,Carlsberg,1.5
+72,73,Grim de NoÃ«l Demi,1.4
+73,74,Grim de NoÃ«l Pinte,2.8
+74,75,Frites,1.0
+75,77,Faro,2.5
+76,78,biÃ¨re 2012,0.0
+77,79,hoodie,20.0
+78,80,Kro brasseur demi,0.7
+79,81,Kro brasseur pinte,1.3
+80,82,Karmeliet triple,2.0
+81,83,RÃ©serve demi,1.4
+82,84,RÃ©serve pinte,2.5
+83,85,Rochefort 10,2.5
+84,86,carlsberg demi,1.5
+85,87,carlsberg pinte,3.0
+86,88,Duvel,1.5
+87,89,Choulette ambrÃ©e,1.4
+88,90,Blanche de Cambrai,1.3
+89,91,Choulette framboise,1.6
+90,92,Hot dog,0.8
+91,93,Hoegaarden Gd Cru,2.7
+92,94,Granita,1.0
+93,95,Granita hard,1.5
+94,96,Kilkenny Demi,1.5
+95,97,Kilkenny Pinte,2.7
+96,98,BiÃ¨re passation 2018 33cl,2.0
+97,99,Chouffe bouteille,3.5
+98,100,Truc de fou,0.8
+99,101,carte parrainage,7.0
+100,102,red,0.0
+101,103,CafÃ©,0.0
+102,104,Kit de survie 2012,4.0
+103,105,Malabar,0.1
+104,106,noel,0.0
+105,107,Bouteille Jager,19.0
+106,108,(Old) Biere passation 33,1.5
+107,109,(Old) biere passation 50,2.0
+108,110,(Old) biere passation 25,1.0
+109,111,Skoll,1.5
+110,112,mix en up,2.0
+111,113,Magners,2.0
+112,114,Rochefort 8,2.2
+113,115,Combi jaune,12.7
+114,116,Rouge demi,1.5
+115,117,Printemps pinte,2.9
+116,118,Printemps demi,1.5
+117,119,1664 Blanche,2.0
+118,120,Seb,1.5
+119,121,Fernet en chope,6.0
+120,122,Red Bull,1.5
+121,123,Chimay bleue,2.5
+122,124,Before,9.0
+123,125,saucisson,9.0
+124,126,systeme son,25.0
+125,127,Fernet bouteille,15.0
+126,128,Pecheresse,2.0
+127,129,CuvÃ©e des Trolls,2.0
+128,130,Kriek,2.0
+129,131,BiÃ¨re Pong,3.0
+130,132,Elephant pinte,3.0
+131,133,Elephant demi,1.5
+132,134,Maredsous Triple,2.2
+133,135,Hard QualitÃ©,2.0
+134,136,SoirÃ©e zzzzz,5.0
+135,137,Fernet pinte,3.0
+136,138,Grim Noel Pinte,2.8
+137,139,Grim Noel Demi,1.4
+138,142,rince cochon,2.1
+139,143,Rince Cochon,2.1
+140,144,Bouteille Rince Cochon,3.9
+141,145,Rince Cochon 75,4.0
+142,146,Super Bock,1.0
+143,147,Tourtel,1.0
+144,148,Kasteel Blonde,1.6
+145,149,Cartashot,3.0
+146,150,Brooklyn pinte,2.0
+147,151,Brooklyn demi,1.0
+148,152,Rallye Biere,6.0
+149,153,BrewDog 5am,3.0
+150,154,Guinness pinte,3.0
+151,155,Guinness demi,1.5
+152,156,BrewDog Punk IPA,2.8
+153,157,Sandwich,2.0
+154,158,Glace-Juin2015,0.25
+155,159,Kriek 37.5,3.0
+156,160,BiÃ¨re Pong Parrain,2.5
+157,161,Jagerbomb,3.0
+158,162,Franziskaner,3.0
+159,163,Cubanisto,2.0
+160,164,Chouffe Pinte,3.5
+161,165,Chouffe demi,2.3
+162,166,Queue de Charrue,2.0
+163,167,1664 demi,1.5
+164,168,1664 pinte,3.0
+165,169,Corona,1.8
+166,170,Tigre Bock,1.3
+167,171,Trolls Pinte,3.1
+168,172,Trolls Demi,1.6
+169,173,Ramen Noodles,0.5
+170,174,Brooklyn Bouteille,2.2
+171,175,BrewDog 5AM Saint,3.0
+172,176,Tournoi beer pong,6.0
+173,177,Ninkasi noire,2.3
+174,178,Admiral Pinte,2.8
+175,179,Admiral Demi,1.4
+176,180,Pietra,2.2
+177,181,Bouteille Hard,11.0
+178,182,ACAB,1.6
+179,183,salope prends pas,1.5
+180,184,Grim Rouge,1.5
+181,185,BiÃ¨re passation 2018 50cl,3.0
+182,188,Triple Karmeliet Pinte,3.5
+183,189,Triple Karmeliet Demi,2.3
+184,190,Becks,1.7
+185,191,Queue de charrue rouge,2.1
+186,192,Passeport famille,4.0
+187,193,Sterling,1.2
+188,194,Gordon Titanium,1.7
+189,195,Ottweiler pils,1.0
+190,196,Brooklyn East IPA,3.1
+191,197,vin chaud,1.0
+192,198,Paix Dieu 33cL,2.7
+193,199,5050 Pinte,3.0
+194,200,Soplica Bouteille,12.0
+195,201,Super Bock,1.0
+196,202,Maredsous Pinte,2.5
+197,203,dettesPg,121.2
+198,204,Grim Triple Pinte,3.5
+199,205,Grim Triple Demi,2.0
+200,206,Fin du monde,2.6
+201,207,Judas,2.4
+202,208,Angelus,2.7
+203,209,Cherry chouffe,1.6
+204,210,Delirium rouge pinte,2.9
+205,211,bush ambrÃ©e,2.5
+206,212,Delirium rouge demi,1.5
+207,213,Absinthe bouteille,23.0
+208,214,Absinthe demi bouteille,12.0
+209,215,Absinthe quart bouteille,6.0
+210,216,Kasteel Rouge Pinte,2.9
+211,217,Kasteel Rouge Demi,1.5
+212,222,San Miguel,2.0
+213,223,1verre de bain de bouche,1.0
+214,224,San miguel ki pu la merde,2.0
+215,225,Defender IPA Pinte,3.2
+216,226,Defender IPA Demi,1.8
+217,227,Sucette qui pique,0.1
+218,228,Saucisson demi,1.5
+219,229,Saucisson pinte,2.5
+220,230,86,1.3
+221,231,Descente Flics 2019,1.0
+222,232,T-shirt Barman,10.0
+223,234,Dette de lÃ©tÃ© de Pablo,45.0
+224,235,La Bete,2.0
+225,236,Rince Cochon Rouge,2.0
+226,237,Goudale,2.0
+227,238,tÃªete brulÃ©eee,0.05
+228,239,La Barge IPA,3.0
+229,240,La Barge Pale Ale,2.2
+230,241,Ducasse Triple Pinte,3.5
+231,242,Ducasse Triple demi,2.0
+232,243,Sans Foi Ni Loi,2.5
+233,244,Distrikt,2.5
+234,245,La Flemme,2.5
+235,246,Mandubienne,2.5
+236,247,Au Pif Pinte,2.5
+237,248,Au Pif Demi,1.5
+238,249,Gulden Draak Pinte,3.5
+239,250,LancÃ© dÃ©,2.0
+240,251,Pipi bar,1.5
+241,252,Coup de fÃ»t de Nico,0.1
+242,253,Coup de fÃ»t costauddeNico,2.0
+243,254,Vomi barman,0.5
+244,255,Dette Gregos 2020,190.0
+245,256,Biere MAD 2020,2.0
+246,257,Ecocup,1.0
+247,258,ecusson,4.0
+248,260,Bush de Babar,250.0
+249,261,kwak pinte,3.5
+250,262,Delirium pinte,3.0
+251,263,Kwak demi,2.0
+252,264,La Bete Pinte,3.5
+253,265,La Bete demi,2.0
+254,266,Delirium demi,2.0
+255,267,connerie Augustin,150.0
+256,268,1664 Blanche Demi,1.8
+257,269,1664 Blanche Pinte,3.0
+258,270,KRO DE ZAC,0.0
+259,271,trÃ©teau du bar,2.3
+260,272,Pas fini,-3.0
+261,273,Belle Rose (louvet fdp),2.5
+262,274,La Trappe,2.0
+263,275,lundi france,1.0
+264,276,Kasteel 11,2.5
+265,277,AMYL,8.0
+266,278,Soda,1.0
+267,279,poppy,8.0
+268,280,CCT2020,1.5
+269,281,Dette Gregos 2020 bis,160.0
+270,282,La Barge IPA Pinte,3.0
+271,283,Mango IPA Pinte,2.5
+272,284,Mango IPA demi,1.4
+273,285,Check de Jules,0.0
+274,286,Check de Jules Mexicain,0.0
+275,287,La Barge DDH IPA,2.5
+276,288,Barge express,9.0
+277,289,La Barge AmbrÃ©e,2.3
+278,290,Mortal Kawa,2.6
+279,291,PipiSurNico,12.0
+280,292,Savon 20ter,1.0
+281,293,Blanche Ã©cume,2.0
+282,294,Love and flower,2.0
+283,295,Barbe bleue,2.0
+284,296,Trinquette demi,1.5
+285,297,Trinquette pinte,2.5
+286,298,cherry chouffe pinte,3.5
+287,299,cherry chouffe demi,2.3
+288,300,BDS pinte,1.5
+289,301,BDS demi,1.0
+290,302,Lance dâ€™avion a 2,2.0
+291,303,Lance dâ€™avion a 4,1.0
+292,304,Barge IPA Demi,2.0
+293,305,lancÃ© super dÃ©,5.0
+294,306,1664 blanche 25cl,1.2
+295,308,pull bar sanson bouffon,20.0
+296,309,gala,1.0
+297,310,dettes Armand,218.9
+298,311,Ecocup bar,2.0
+299,312,san miguel especial,2.5
+300,313,MÃ©lusine Golden Ale,2.1
+301,314,Puy dEnfer,2.3
+302,315,Parisis SMASH,2.4
+303,316,Cafard du Bar,0.1
+304,317,Rater son permis,0.0
+305,318,Fefe(sse),2.3
+306,319,Seum dAlix,0.5
+307,320,Czech de jules,0.0
+308,321,Shot intro,3.0
+309,322,tunnel du bar,0.66
+310,323,Bizarre avec les meufs,0.51
+311,324,Vodkabricot,2.0
+312,325,Paix Dieu pinte,3.7
+313,326,Paix dieu demi,2.5
+314,327,Vodkabricot double,3.5
+315,328,Duvel Tripel Hop Citra,2.5
+316,329,Bush AmbrÃ©e Pinte,3.7
+317,330,Bush AmbrÃ©e Demi,2.0
+318,331,Mate Redbull,2.0
+319,332,Barge neipa,3.0
+320,333,Lou Le Gallo Pinte,3.0
+321,334,BBT demi,2.0
+322,335,Barge IPA demi,2.0
+323,336,casquette de zak,9.9
+324,337,Berry Bad Triple,3.0
+325,338,Berry Bad Triple demi,1.7
+326,339,La barge East IPA,2.5
+327,340,vomi tireuse,0.6
+328,341,Smash pinte,3.0
+329,342,Smash demi,2.0
+330,343,Caca bar,0.5
+331,344,Carlsberg elephant pinte,3.5
