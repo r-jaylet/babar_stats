@@ -1,6 +1,6 @@
 # babar_stats
 
-## Data 
+## Data collection 
 Data was collected on server then cleaned, simplified, anonymised and seperated into 3 tables :
 - products
 - consumers
@@ -11,6 +11,6 @@ Data was collected on server then cleaned, simplified, anonymised and seperated 
 - Key features of drinks : Name, type (drink or not), volume, degree, price
 - Key features of consumptions : date, user, drink, price
 
-##Study guide
+## Study guide
 - popularity of drink : show that people want stronger and better quality beer
 - Graph : link with people drank on same day
